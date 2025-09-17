@@ -128,7 +128,7 @@ My path to front-end development is built on a diverse foundation, including rol
 **National University «Yuri Kondratyuk Poltava Polytechnic»**
 
 - **Doctor of Philosophy (PhD), Environmental Protection**
-  - *Expected start: September 2024*
+  - *September 2024 – Present*
 
 - **Master of Engineering (MEng), Geodesy and Land Management**
   - *2017 – 2018 (Graduated with honours)*
