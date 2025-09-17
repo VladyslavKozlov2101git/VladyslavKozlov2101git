@@ -28,11 +28,14 @@ My path to front-end development is built on a diverse foundation, including rol
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
   </a>
-   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="rtk query"/>
   </a>
   <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="zustand"/>
+  </a>
+  <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="swr"/>
   </a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
@@ -101,6 +104,19 @@ My path to front-end development is built on a diverse foundation, including rol
 **GIS & Land Management Specialist** (Jan 2016 - Oct 2020)
 - Managed a land bank of 23,000 hectares, optimized land use, and handled geospatial data.
 - Specialized in digitizing satellite imagery, creating digital maps, and working with cartographic databases for companies like Yandex Maps and Here Ukraine.
+
+### 🎓 Education
+
+**Poltavskyi National Technical Yuri Kondratyuk University**
+
+- **Doctor of Philosophy (PhD), Environmental Protection**
+  - *Expected start: September 2024*
+
+- **Master of Engineering (MEng), Geodesy and Land Management**
+  - *2017 – 2018 (Graduated with honours)*
+
+- **Bachelor's Degree, Geodesy and Land Development**
+  - *2013 – 2017 (Graduated with honours)*
 
 ### 📫 How to reach me
 
