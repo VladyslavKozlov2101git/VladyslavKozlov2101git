@@ -34,6 +34,9 @@ My path to front-end development is built on a diverse foundation, including rol
   <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="zustand"/>
   </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
+  </a>
 </p>
 
 #### Styling & Markup
@@ -75,9 +78,6 @@ My path to front-end development is built on a diverse foundation, including rol
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="swagger"/>
-  </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
   </a>
 </p>
 
