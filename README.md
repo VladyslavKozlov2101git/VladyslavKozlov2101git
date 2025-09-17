@@ -53,9 +53,12 @@ My path to front-end development is built on a diverse foundation, including rol
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind css"/>
+  </a>
 </p>
 
-#### Backend & Databases (Basic Knowledge)
+#### Backend, APIs & Real-time (Basic Knowledge)
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
@@ -69,10 +72,19 @@ My path to front-end development is built on a diverse foundation, including rol
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white" alt="websockets"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SSE-F7641B?style=for-the-badge&logo=json&logoColor=white" alt="server-sent events"/>
+  </a>
 </p>
 
-#### Testing & Tools
+#### Tools & Version Control
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
   </a>
@@ -84,30 +96,35 @@ My path to front-end development is built on a diverse foundation, including rol
   </a>
 </p>
 
+### 🛠️ Projects & Experience Highlights
+
+- **SEO-Friendly E-commerce Platforms:** Developed full-cycle e-commerce stores using Next.js. Implemented key features like multi-language interfaces, product catalogs, advanced filtering, categories, and shopping carts, focusing on performance and SEO optimization.
+- **MedTech Automation Platform:** Engineered a centralized platform for medical centers and suppliers to automate inventory and procurement processes. Developed a robust front-end with React and Redux, consuming a REST API to ensure a stable and intuitive user experience.
+- **Admin Panels for Crypto Projects:** Built secure admin dashboards for blockchain-based projects, enabling management of transactions, user roles, and system settings. Integrated multi-factor authentication and created custom data visualization tools for key metrics.
+- **Complex Admin Dashboards:** Developed numerous admin panels with complex role-based access control (RBAC), data management workflows, and reporting functionalities for various business needs.
+
 ### 🚀 Professional Journey
 
 **React Front-End Developer** @ [Owlab](https://owlab.group/) (Nov 2021 - Present)
 - Developing responsive and dynamic user interfaces using React, Next.js, and TypeScript.
 - Managing application state with Redux, RTK Query, and Zustand.
 - Collaborating with cross-functional teams to deliver high-quality web applications.
+- Working effectively as a dedicated team member in international teams with professionals from Finland, Sweden, Latvia, the USA, and Estonia.
 
 **IT Project Manager** (Jul 2021 - Mar 2023)
 - Led project teams, managed stakeholder relationships, and ensured project delivery on time and within scope.
 - Prepared and maintained project plans, tracked activities, and managed team conflicts.
-- Involved in pre-sales and up-sales activities within the account.
 
 **QA Engineer / QA Automation** (Oct 2020 - Jun 2021)
 - Created testing documentation and performed manual testing for web and mobile applications.
 - Developed and executed automation scripts using Cypress.
-- Worked with developer tools like Chrome DevTools, Postman, and Swagger to identify and track bugs.
 
 **GIS & Land Management Specialist** (Jan 2016 - Oct 2020)
-- Managed a land bank of 23,000 hectares, optimized land use, and handled geospatial data.
-- Specialized in digitizing satellite imagery, creating digital maps, and working with cartographic databases for companies like Yandex Maps and Here Ukraine.
+- Managed a land bank of 23,000 hectares, optimized land use, and handled geospatial data for agricultural holdings and digital cartography companies.
 
 ### 🎓 Education
 
-**Poltavskyi National Technical Yuri Kondratyuk University**
+**National University «Yuri Kondratyuk Poltava Polytechnic»**
 
 - **Doctor of Philosophy (PhD), Environmental Protection**
   - *Expected start: September 2024*
