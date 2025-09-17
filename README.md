@@ -110,7 +110,7 @@ My path to front-end development is built on a diverse foundation, including rol
 - Developing responsive and dynamic user interfaces using React, Next.js, and TypeScript.
 - Managing application state with Redux, RTK Query, and Zustand.
 - Collaborating with cross-functional teams to deliver high-quality web applications.
-- Working effectively as a dedicated team member in international teams with professionals from Finland, Sweden, Latvia, the USA, and Estonia.
+- **Working effectively as a dedicated team member in international teams with professionals from Finland, Sweden, Latvia, the USA, and Estonia**.
 
 **IT Project Manager** (Jul 2021 - Mar 2023)
 - Led project teams, managed stakeholder relationships, and ensured project delivery on time and within scope.
