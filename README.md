@@ -120,7 +120,7 @@ My path to front-end development is built on a diverse foundation, including rol
 - Created testing documentation and performed manual testing for web and mobile applications.
 - Developed and executed automation scripts using Cypress.
 
-**GIS & Land Management Specialist** (Jan 2016 - Oct 2020)
+**GIS & Land Management Specialist** (Jan 2017 - Oct 2020)
 - Managed a land bank of 23,000 hectares, optimized land use, and handled geospatial data for agricultural holdings and digital cartography companies.
 
 ### 🎓 Education
