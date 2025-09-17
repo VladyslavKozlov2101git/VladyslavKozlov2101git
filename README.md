@@ -102,6 +102,7 @@ My path to front-end development is built on a diverse foundation, including rol
 - **MedTech Automation Platform:** Engineered a centralized platform for medical centers and suppliers to automate inventory and procurement processes. Developed a robust front-end with React and Redux, consuming a REST API to ensure a stable and intuitive user experience.
 - **Admin Panels for Crypto Projects:** Built secure admin dashboards for blockchain-based projects, enabling management of transactions, user roles, and system settings. Integrated multi-factor authentication and created custom data visualization tools for key metrics.
 - **Complex Admin Dashboards:** Developed numerous admin panels with complex role-based access control (RBAC), data management workflows, and reporting functionalities for various business needs.
+- **Diverse Project Portfolio:** Contributed to over 50 projects across various domains, including dating applications, play-to-earn (P2E) platforms, AI agent creation tools, and other solutions incorporating AI technologies.
 
 ### 🚀 Professional Journey
 
@@ -134,6 +135,11 @@ My path to front-end development is built on a diverse foundation, including rol
 
 - **Bachelor's Degree, Geodesy and Land Development**
   - *2013 – 2017 (Graduated with honours)*
+
+### 🌐 Languages
+
+- **Ukrainian:** Native
+- **English:** Professional Working Proficiency
 
 ### 📫 How to reach me
 
