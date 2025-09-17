@@ -138,8 +138,9 @@ My path to front-end development is built on a diverse foundation, including rol
 
 ### 🌐 Languages
 
-- **Ukrainian:** Native
-- **English:** Professional Working Proficiency
+- 🇺🇦 **Ukrainian:** Native
+- 🇬🇧 / 🇺🇸 **English:** Professional Working Proficiency
+
 
 ### 📫 How to reach me
 
