@@ -40,6 +40,9 @@ My path to front-end development is built on a diverse foundation, including rol
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
   </a>
+  <a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="chrome extensions"/>
+  </a>
 </p>
 
 #### Styling & Markup
@@ -55,6 +58,9 @@ My path to front-end development is built on a diverse foundation, including rol
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind css"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML_Emails-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html emails"/>
   </a>
 </p>
 
@@ -102,6 +108,8 @@ My path to front-end development is built on a diverse foundation, including rol
 - **MedTech Automation Platform:** Engineered a centralized platform for medical centers and suppliers to automate inventory and procurement processes. Developed a robust front-end with React and Redux, consuming a REST API to ensure a stable and intuitive user experience.
 - **Admin Panels for Crypto Projects:** Built secure admin dashboards for blockchain-based projects, enabling management of transactions, user roles, and system settings. Integrated multi-factor authentication and created custom data visualization tools for key metrics.
 - **Complex Admin Dashboards:** Developed numerous admin panels with complex role-based access control (RBAC), data management workflows, and reporting functionalities for various business needs.
+- **Custom Chrome Extensions:** Designed and built browser extensions to automate tasks, enhance user workflows, and integrate with third-party web services.
+- **Responsive HTML Emails:** Crafted pixel-perfect and responsive HTML email templates for marketing campaigns, ensuring compatibility across all major email clients.
 - **Diverse Project Portfolio:** Contributed to over **50 projects** across various domains, including dating applications, play-to-earn (P2E) platforms, AI agent creation tools, and other solutions incorporating AI technologies.
 
 ### 🚀 Professional Journey
