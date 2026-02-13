@@ -94,6 +94,9 @@ My path to front-end development is built on a diverse foundation, including rol
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
   </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" alt="playwright"/>
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
