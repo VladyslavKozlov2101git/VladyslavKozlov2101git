@@ -2,155 +2,122 @@
 
 ### 👨‍💻 About Me
 
-I am a Front-End Developer with commercial experience since 2020. My passion lies in building intuitive, efficient, and visually appealing web interfaces. I'm dedicated to writing clean, maintainable code and continuously improving my skills by keeping up with the latest trends in the web development world.
+I am a **Full-Stack Engineer** with 6 years in IT, **60 commercial projects** and **10,000+ tracked hours**, most of them as a sole or lead developer. I take products from project setup and architecture through production release, and then own them for years afterwards.
 
-My path to front-end development is built on a diverse foundation, including roles in **Project Management** and **QA Automation**. This unique experience has given me a holistic perspective on the software development lifecycle, from initial planning and quality checks to final implementation. Before my journey in tech, I honed my analytical and data-driven problem-solving skills as a GIS and Land Management Specialist.
+My path is built on a diverse foundation, including roles in **QA Automation** and **Project Management**. That's why I read requirements the way a tester does and talk to clients the way a PM does. Before tech, I honed my analytical and data-driven problem-solving skills as a GIS and Land Management Specialist.
+
+**Domains:** fintech, lending & banking · marketing sites & SEO · AI & LLM products · SaaS, B2B tooling & ERP · healthtech & medtech · e-commerce & marketplaces · Web3, blockchain & NFT · dating, social & events · legal tech · sports tech · media & rights · data scraping & automation.
 
 ### 💻 My Tech Stack
 
-#### Front-End Development
+#### Frontend
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
-  </a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="rtk query"/>
-  </a>
-  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="zustand"/>
-  </a>
-  <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="swr"/>
-  </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
-  </a>
-  <a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="chrome extensions"/>
-  </a>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux toolkit"/>
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="rtk query"/>
+  <img src="https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white" alt="redux saga"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" alt="zustand"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="react query"/>
+  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="swr"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind css"/>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="radix ui"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
 </p>
 
-#### Styling & Markup
+> Next.js Pages & App Router, SSR/SSG, Server Actions, Server Components · pixel-perfect from Figma · Core Web Vitals & SEO · Chrome Extensions · HTML Emails
+
+#### Backend & APIs
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind css"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML_Emails-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html emails"/>
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/>
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="hono"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="zod"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="openapi"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="swagger"/>
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white" alt="websockets"/>
+  <img src="https://img.shields.io/badge/SSE-F7641B?style=for-the-badge&logo=json&logoColor=white" alt="server-sent events"/>
 </p>
 
-#### Backend, APIs & Real-time (Basic Knowledge)
+> NestJS services and Hono APIs inside Next.js route handlers · Zod/OpenAPI typed contracts & generated docs · queues and scheduled jobs for payments, order lifecycle, outbound email and third-party syncs
+
+#### Data
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white" alt="websockets"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SSE-F7641B?style=for-the-badge&logo=json&logoColor=white" alt="server-sent events"/>
-  </a>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma"/>
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="drizzle"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongoose"/>
 </p>
 
-#### Tools & Version Control
+> Schema design, migrations, keeping money and order state consistent
+
+#### Integrations
+> Payment & billing flows · open banking · supplier APIs · auth providers · CMS platforms · i18n · mapping · transactional email
+
+#### Quality & Operations
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
-  </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white" alt="playwright"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="swagger"/>
-  </a>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="vitest"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="react testing library"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white" alt="playwright"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="sentry"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab ci"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" alt="aws"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </p>
 
 ### 🛠️ Projects & Experience Highlights
 
-- **SEO-Friendly E-commerce Platforms:** Developed full-cycle e-commerce stores using Next.js. Implemented key features like multi-language interfaces, product catalogs, advanced filtering, categories, and shopping carts, focusing on performance and SEO optimization.
-- **MedTech Automation Platform:** Engineered a centralized platform for medical centers and suppliers to automate inventory and procurement processes. Developed a robust front-end with React and Redux, consuming a REST API to ensure a stable and intuitive user experience.
-- **Admin Panels for Crypto Projects:** Built secure admin dashboards for blockchain-based projects, enabling management of transactions, user roles, and system settings. Integrated multi-factor authentication and created custom data visualization tools for key metrics.
-- **Complex Admin Dashboards:** Developed numerous admin panels with complex role-based access control (RBAC), data management workflows, and reporting functionalities for various business needs.
-- **Custom Chrome Extensions:** Designed and built browser extensions to automate tasks, enhance user workflows, and integrate with third-party web services.
-- **Responsive HTML Emails:** Crafted pixel-perfect and responsive HTML email templates for marketing campaigns, ensuring compatibility across all major email clients.
-- **Diverse Project Portfolio:** Contributed to over **50 projects** across various domains, including dating applications, play-to-earn (P2E) platforms, AI agent creation tools, and other solutions incorporating AI technologies.
+- **Fintech & Lending Platforms:** Built end-to-end products with payment and billing flows, open banking integrations and background jobs that keep money and order state consistent.
+- **SEO-Friendly E-commerce & Marketplaces:** Full-cycle Next.js stores with multi-language interfaces, catalogs, advanced filtering, carts and checkout, optimized for Core Web Vitals and SEO.
+- **MedTech Automation Platform:** A centralized platform for medical centers and suppliers to automate inventory and procurement, including supplier API integrations.
+- **AI & LLM Products:** AI agent creation tools and other solutions built around LLMs.
+- **Admin Panels & B2B Tools:** Dashboards and ERP-like systems with complex RBAC, multi-factor authentication, data management workflows, reporting and custom data visualizations, including for crypto/Web3 projects.
+- **Automation & Scraping:** Custom Chrome extensions and data scraping pipelines that automate workflows and sync with third-party services.
+- **Diverse Portfolio:** **60 commercial projects** across fintech, healthtech, legal tech, sports tech, media, dating, P2E and more, most of them as sole or lead developer.
 
 ### 🚀 Professional Journey
 
-**React Front-End Developer** @ [Owlab](https://owlab.group/) (Nov 2021 - Present)
-- Developing responsive and dynamic user interfaces using React, Next.js, and TypeScript.
-- Managing application state with Redux, RTK Query, and Zustand.
-- Collaborating with cross-functional teams to deliver high-quality web applications.
-- **Working effectively as a dedicated team member in international teams with professionals from Finland, Sweden, Latvia, the USA, and Estonia**.
+**Full-Stack Developer** @ [Owlab](https://owlab.group/) (Aug 2026 – Present)
+- Owning products end to end: architecture, frontend, backend, data layer and production releases.
+- Building NestJS / Hono APIs with Zod/OpenAPI contracts, PostgreSQL & MongoDB data models, queues and scheduled jobs.
+- Working directly with clients, designers and QA in international teams (Finland, Sweden, Latvia, USA, Estonia).
 
-**IT Project Manager** (Jul 2021 - Mar 2023)
-- Led project teams, managed stakeholder relationships, and ensured project delivery on time and within scope.
-- Prepared and maintained project plans, tracked activities, and managed team conflicts.
+**React Front-End Developer** @ [Owlab](https://owlab.group/) (Nov 2021 – Jul 2026)
+- Developed responsive, dynamic interfaces with React, Next.js and TypeScript.
+- Managed application state with Redux Toolkit, RTK Query, Redux Saga and Zustand.
 
-**QA Engineer / QA Automation** (Oct 2020 - Jun 2021)
-- Created testing documentation and performed manual testing for web and mobile applications.
-- Developed and executed automation scripts using Cypress.
+**IT Project Manager** (Jul 2021 – Mar 2023)
+- Led project teams, managed stakeholder relationships and delivered projects on time and within scope.
 
-**GIS & Land Management Specialist** (Jan 2017 - Oct 2020)
-- Managed a land bank of 23,000 hectares, optimized land use, and handled geospatial data for agricultural holdings and digital cartography companies.
+**QA Engineer / QA Automation** (Oct 2020 – Jun 2021)
+- Wrote testing documentation, performed manual testing of web and mobile apps, and built Cypress automation.
+
+**GIS & Land Management Specialist** (Jan 2017 – Oct 2020)
+- Managed a 23,000-hectare land bank and handled geospatial data for agricultural holdings and digital cartography companies.
 
 ### 🎓 Education
 
 **National University «Yuri Kondratyuk Poltava Polytechnic»**
 
-- **Doctor of Philosophy (PhD), Environmental Protection**
-  - *September 2024 – Present*
-
-- **Master of Engineering (MEng), Geodesy and Land Management**
-  - *2017 – 2018 (Graduated with honours)*
-
-- **Bachelor's Degree, Geodesy and Land Development**
-  - *2013 – 2017 (Graduated with honours)*
+- **Doctor of Philosophy (PhD), Environmental Protection** — *September 2024 – Present*
+- **Master of Engineering (MEng), Geodesy and Land Management** — *2017 – 2018 (with honours)*
+- **Bachelor's Degree, Geodesy and Land Development** — *2013 – 2017 (with honours)*
 
 ### 🌐 Languages
 
 - <img src="https://flagcdn.com/w20/ua.png" height="13px" alt="Ukraine Flag"> **Ukrainian:** Native
-- <img src="https://flagcdn.com/w20/gb.png" height="13px" alt="UK Flag"> / <img src="https://flagcdn.com/w20/us.png" height="13px" alt="US Flag"> **English:** Professional Working Proficiency
+- <img src="https://flagcdn.com/w20/gb.png" height="13px" alt="UK Flag"> / <img src="https://flagcdn.com/w20/us.png" height="13px" alt="US Flag"> **English:** Upper-Intermediate (B2)
 
 ### 📫 How to reach me
 
